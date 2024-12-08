@@ -1,0 +1,1 @@
+In this chapter, which is Chapter 7 on using animation, I encountered some challenges. Although I only used simple animation, I still learned how to implement it and how it works.
